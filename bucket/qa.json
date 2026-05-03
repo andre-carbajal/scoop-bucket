@@ -1,10 +1,10 @@
 {
-    "version": "0.1.17",
+    "version": "0.1.19",
     "description": "Query Analyzer CLI",
     "homepage": "https://github.com/UPT-FAING-EPIS/proyecto-si783-2026-i-u1-analizador-de-rendimiento-de-consultas",
     "license": "MIT",
-    "url": "https://github.com/UPT-FAING-EPIS/proyecto-si783-2026-i-u1-analizador-de-rendimiento-de-consultas/releases/download/v0.1.17/qa-windows-amd64.zip",
-    "hash": "sha256:efe9fd963e3258a21186e5978ff6695c81502024fa154b7c5d7635b89fcdddac",
+    "url": "https://github.com/UPT-FAING-EPIS/proyecto-si783-2026-i-u1-analizador-de-rendimiento-de-consultas/releases/download/v0.1.19/qa-windows-amd64.zip",
+    "hash": "sha256:b987ab3f6c62c366fa2d396ddb10887dd0ac4e28a8b71b2d06ebe86e23c00b11",
     "extract_dir": "qa-windows-amd64",
     "env_add_path": "bin",
     "checkver": {

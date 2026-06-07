@@ -7,7 +7,7 @@
 2. Add this bucket to scoop:
 
 ```
-scoop bucket add andre-carbajal https://github.com/andre-carbajal/scoop-bucket.git
+scoop bucket add UPT-FAING-EPIS https://github.com/andre-carbajal/scoop-bucket.git
 ```
 
 3. Install tools via `scoop install`:

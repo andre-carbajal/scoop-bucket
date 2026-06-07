@@ -1,10 +1,10 @@
 {
-    "version": "2.0.2",
+    "version": "2.0.3-rc.1",
     "description": "Dependency Analyzer CLI",
     "homepage": "https://github.com/UPT-FAING-EPIS/proyecto-si784-2026-i-u1-analizador-de-dependencias",
     "license": "MIT",
-    "url": "https://github.com/UPT-FAING-EPIS/proyecto-si784-2026-i-u1-analizador-de-dependencias/releases/download/v2.0.2/depanalyzer-windows-amd64.zip",
-    "hash": "sha256:aceb2d23f731f54961bcfa53d411d00cea5e5c89706f0b4f36e77137905444a4",
+    "url": "https://github.com/UPT-FAING-EPIS/proyecto-si784-2026-i-u1-analizador-de-dependencias/releases/download/v2.0.3-rc.1/depanalyzer-windows-amd64.zip",
+    "hash": "sha256:bf6fd94bf469350c4183df616844fbf0af7dd469134965da807b32d7f9fd93f2",
     "extract_dir": "depanalyzer-windows-amd64",
     "env_add_path": "bin",
     "checkver": {

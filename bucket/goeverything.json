@@ -1,19 +1,19 @@
 {
-    "version": "2.0.3",
+    "version": "2.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/andre-carbajal/GoEverything/releases/download/v2.0.3/goeverything_2.0.3_windows_amd64.zip",
+            "url": "https://github.com/andre-carbajal/GoEverything/releases/download/v2.1.0/goeverything_2.1.0_windows_amd64.zip",
             "bin": [
                 "ge.exe"
             ],
-            "hash": "e5562619cd8ab843b3ed3d1875f7e50509fc1cbae8f80fe410b579b0caf69a0f"
+            "hash": "3aa563feee0a4979143579782b71d80e2420acc5f6a0f67dd2d08f7671b7e06b"
         },
         "arm64": {
-            "url": "https://github.com/andre-carbajal/GoEverything/releases/download/v2.0.3/goeverything_2.0.3_windows_arm64.zip",
+            "url": "https://github.com/andre-carbajal/GoEverything/releases/download/v2.1.0/goeverything_2.1.0_windows_arm64.zip",
             "bin": [
                 "ge.exe"
             ],
-            "hash": "2437dba71a58f8e9d407e7aee2467711800ea2943598672bb011035f2358b51c"
+            "hash": "339c33db97f3f33b234e4fc2612e04ec6e6eb9c7994248dec3e4adb65a8294f4"
         }
     },
     "homepage": "https://github.com/andre-carbajal/GoEverything",

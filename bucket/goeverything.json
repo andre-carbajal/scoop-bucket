@@ -1,22 +1,22 @@
 {
-    "version": "2.2.1",
+    "version": "2.2.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/andre-carbajal/GoEverything/releases/download/v2.2.1/goeverything_2.2.1_windows_amd64.zip",
+            "url": "https://github.com/andre-carbajal/GoEverything/releases/download/v2.2.2/goeverything_2.2.2_windows_amd64.zip",
             "bin": [
                 "ge.exe"
             ],
-            "hash": "73322dbe1a5ba7d8543c72e9b77d4ab9d2c9113917ada4ab8fef82066da0f008"
+            "hash": "2c07795309e60e214bf483b7d422beba57ea5c4d7a8baa5ac4979410e106e361"
         },
         "arm64": {
-            "url": "https://github.com/andre-carbajal/GoEverything/releases/download/v2.2.1/goeverything_2.2.1_windows_arm64.zip",
+            "url": "https://github.com/andre-carbajal/GoEverything/releases/download/v2.2.2/goeverything_2.2.2_windows_arm64.zip",
             "bin": [
                 "ge.exe"
             ],
-            "hash": "606c3d174564da391222ca40ba36177562b7cd310f3ee552ca3f7bb31ef2b8da"
+            "hash": "2b38430d5382c4d201c55aa713103e6440291fe6a561b1be298c1f646f891056"
         }
     },
     "homepage": "https://github.com/andre-carbajal/GoEverything",
-    "license": "GPL v3",
+    "license": "GPL-3.0-only",
     "description": "Fast local file indexing and search"
 }
